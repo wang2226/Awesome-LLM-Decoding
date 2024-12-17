@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/000.0000)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![](https://img.shields.io/badge/PaperNumber-97-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-95-brightgreen)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](./LICENSE)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wang2226/DecodingPapers/main?logo=github&color=blue)
@@ -10,6 +10,12 @@
 > 🔍 See our paper: [**"Decoding Methods for Foundation Models: A Survey"**](https://arxiv.org/abs/0000.0000) [![Paper](https://img.shields.io/badge/Paper-%F0%9F%8E%93-lightblue?style=flat-square)](https://arxiv.org/abs/0000.0000)
 >
 > 📧 Please let us know if you find a mistake or have any suggestions by e-mail: <hwang219@hawk.iit.edu>
+
+## 👂**TL;DR**
+
+- Advanced decoding methods can enhance generation at inference time, providing an effective and efficient way to control outputs from LLMs and LVLMs.
+- 🙋‍♂️ The [QuickStart](#quickstart) section offers an overview to help you quickly dive into learning about decoding methods.
+- This [paper list](#papers) compiles relevant research on decoding methods for both LLMs and LVLMs.
 
 ## Table of Contents
 
@@ -38,7 +44,7 @@ In this paper, we survey and categorize research on decoding methods for foundat
 
 ## Updates
 
-- 📄 [12/16/2024] Our paper has been uploaded to arXiv.
+- 📄 [12/16/2024] Paper list has been released!
 
 ## QuickStart
 
@@ -46,18 +52,19 @@ In this paper, we survey and categorize research on decoding methods for foundat
 - [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)]() [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
 - [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)]() [Generating Human-level Text with Contrastive Search in Transformers](https://huggingface.co/blog/introducing-csearch)
 - [Decoding Strategies in Large Language Models](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html)
-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]()  [Transformer models: Decoders](https://www.youtube.com/watch?v=d_ixlCubqQw&ab_channel=HuggingFace)
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]()  [CMU Neural Nets for NLP 2021 (18): Advanced Search Algorithms](https://www.youtube.com/watch?v=Gl6CPW6l6dA&ab_channel=GrahamNeubig)
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]()  [CMU Advanced NLP Fall 2024 (22): From Decoding to Meta Generation Inference Time Algorithms for LMs](https://www.youtube.com/watch?v=0s1gZe_BcQ0&ab_channel=GrahamNeubig)
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]()  [UMass CS685 S24 (Advanced NLP) #13: Decoding from language models](https://www.youtube.com/watch?v=WoJrlvu7ODI&t=3872s&ab_channel=MohitIyyer)
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]()  [CMU LTI Colloquium: Reasoning with Inference Time Compute](https://www.youtube.com/watch?v=lGr-O2rK7WQ&ab_channel=LanguageTechnologiesInstituteatCarnegieMellon%28LTIatCMU%29)
 - [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]() [Speculative Decoding: When Two LLMs are Faster than One](https://www.youtube.com/watch?v=S-8yr_RibJ4&ab_channel=EfficientNLP)
 
-## Keywords Convention
-
-![](https://img.shields.io/badge/SpecDec-blue) Abbreviation
-
-![](https://img.shields.io/badge/ACL2022-brown) Conference
-
-![](https://img.shields.io/badge/LLM-red) Model
-
 ## Papers
+
+### Keywords Convention
+
+Abbreviation: ![](https://img.shields.io/badge/SpecDec-blue)
+Conference: ![](https://img.shields.io/badge/ACL2022-brown)
+Model: ![](https://img.shields.io/badge/LLM-red)
 
 ### Survey
 
@@ -106,7 +113,7 @@ In this paper, we survey and categorize research on decoding methods for foundat
 
 - **Trusting Your Evidence: Hallucinate Less with Context-aware Decoding**  
     *Weijia Shi, Xiaochuang Han, Mike Lewis, Yulia Tsvetkov, Luke Zettlemoyer, Wen-tau Yih*.
-    [[pdf](https://aclanthology.org/2023.acl-long.687.pdf)], [[code](https://github.com/xhan77/context-aware-decoding)]
+    [[pdf](https://aclanthology.org/2024.naacl-short.69.pdf)], [[code](https://github.com/xhan77/context-aware-decoding)]
     ![](https://img.shields.io/badge/CAD-blue)
     ![](https://img.shields.io/badge/NACL2024-brown)
     ![](https://img.shields.io/badge/LLM-red)
@@ -193,6 +200,13 @@ In this paper, we survey and categorize research on decoding methods for foundat
     ![](https://img.shields.io/badge/VaLiD-blue)
     ![](https://img.shields.io/badge/LVLM-red)
 
+- **Mitigating Hallucinations in Large Vision-Language Models (LVLMs) via Language-Contrastive Decoding (LCD)**  
+    *Avshalom Manevich, Reut Tsarfaty*.
+    [[pdf](https://aclanthology.org/2024.findings-acl.359.pdf)]
+    ![](https://img.shields.io/badge/LCD-blue)
+    ![](https://img.shields.io/badge/ACL2024--Findings-brown)
+    ![](https://img.shields.io/badge/LVLM-red)
+
 #### Guided
 
 - **NeuroLogic Decoding: (Un)supervised Neural Text Generation with Predicate Logic Constraints**  
@@ -260,20 +274,6 @@ In this paper, we survey and categorize research on decoding methods for foundat
     [[pdf](https://arxiv.org/pdf/2402.15300)], [[code](https://github.com/d-ailin/CLIP-Guided-Decoding)]
     ![](https://img.shields.io/badge/CGD-blue)
     ![](https://img.shields.io/badge/LVLM-red)
-
-- **Mitigating Hallucinations in Large Vision-Language Models (LVLMs) via Language-Contrastive Decoding (LCD)**  
-    *Avshalom Manevich, Reut Tsarfaty*.
-    [[pdf](https://aclanthology.org/2024.findings-acl.359.pdf)]
-    ![](https://img.shields.io/badge/LCD-blue)
-    ![](https://img.shields.io/badge/ACL2024--Findings-brown)
-    ![](https://img.shields.io/badge/LVLM-red)
-
-- **Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought Reasoning**  
-    *Tinghui Zhu, Kai Zhang, Jian Xie, Yu Su*.
-    [[pdf](https://arxiv.org/pdf/2401.17686)], [[code](https://github.com/OSU-NLP-Group/Deductive-Beam-Search)]
-    ![](https://img.shields.io/badge/DBS-blue)
-    ![](https://img.shields.io/badge/COLM2024-brown)
-    ![](https://img.shields.io/badge/LLM-red)
 
 - **Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought Reasoning**  
     *Tinghui Zhu, Kai Zhang, Jian Xie, Yu Su*.
@@ -371,6 +371,7 @@ In this paper, we survey and categorize research on decoding methods for foundat
     *Yongchao Zhou, Kaifeng Lyu, Ankit Singh Rawat, Aditya Krishna Menon, Afshin Rostamizadeh, Sanjiv Kumar, Jean-François Kagy, Rishabh Agarwal*.
     [[pdf](https://arxiv.org/pdf/2310.08461)]
     ![](https://img.shields.io/badge/DistillSpec-blue)
+    ![](https://img.shields.io/badge/ICLR2024-brown)
     ![](https://img.shields.io/badge/LLM-red)
 
 - **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**  
@@ -383,6 +384,8 @@ In this paper, we survey and categorize research on decoding methods for foundat
 - **Online Speculative Decoding**  
     *Xiaoxuan Liu, Lanxiang Hu, Peter Bailis, Alvin Cheung, Zhijie Deng, Ion Stoica, Hao Zhang*.
     [[pdf](https://arxiv.org/pdf/2310.07177)], [[code](https://github.com/LiuXiaoxuanPKU/OSD)]
+    ![](https://img.shields.io/badge/Online--Speculative-blue)
+    ![](https://img.shields.io/badge/ICML2024-brown)
     ![](https://img.shields.io/badge/LLM-red)
 
 - **Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting**  
@@ -401,6 +404,7 @@ In this paper, we survey and categorize research on decoding methods for foundat
     *Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao*.
     [[pdf](https://arxiv.org/pdf/2401.10774)], [[code](https://github.com/FasterDecoding/Medusa)]
     ![](https://img.shields.io/badge/Medusa-blue)
+    ![](https://img.shields.io/badge/ICML2024-brown)
     ![](https://img.shields.io/badge/LLM-red)
 
 - **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**  
@@ -519,12 +523,6 @@ In this paper, we survey and categorize research on decoding methods for foundat
 - **Contrastive Decoding Improves Reasoning in Large Language Models**  
     *Sean O'Brien, Mike Lewis*.
     [[pdf](https://arxiv.org/pdf/2309.09117)]
-    ![](https://img.shields.io/badge/LLM-red)
-
-- **Distillation Contrastive Decoding: Improving LLMs Reasoning with Contrastive Decoding and Distillation**  
-    *Phuc Phan, Hieu Tran, Long Phan*.
-    [[pdf](https://arxiv.org/pdf/2402.14874)], [[code](https://github.com/pphuc25/distil-cd)]
-    ![](https://img.shields.io/badge/DCD-blue)
     ![](https://img.shields.io/badge/LLM-red)
 
 - **Distillation Contrastive Decoding: Improving LLMs Reasoning with Contrastive Decoding and Distillation**  
@@ -703,6 +701,10 @@ In this paper, we survey and categorize research on decoding methods for foundat
 ## Contributing to this paper list
 
 - There are cases where we miss important works in this field, please feel free to contribute and promote your awesome work or other related works here! Thanks for the efforts in advance.
+
+## **⏰ TODO in Coming Versions**
+
+- [ ] Release decoding playground on HuggingFace
 
 ## Citation
 
