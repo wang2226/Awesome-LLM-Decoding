@@ -327,6 +327,13 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     ![](https://img.shields.io/badge/ACL2024-brown)
     ![](https://img.shields.io/badge/LLM-red)
 
+- **Guiding LLMs The Right Way: Fast, Non-Invasive Constrained Generation**  
+    *Luca Beurer-Kellner, Marc Fischer, Martin Vechev*.
+    [[pdf](https://arxiv.org/pdf/2403.06988v1)], [[code](https://github.com/eth-sri/domino)]
+    ![](https://img.shields.io/badge/DOMINO-blue)
+    ![](https://img.shields.io/badge/ICML2024-brown)
+    ![](https://img.shields.io/badge/LLM-red)
+
 #### Parallel
 
 - **Blockwise Parallel Decoding for Deep Autoregressive Models**  
@@ -518,6 +525,12 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     ![](https://img.shields.io/badge/JVD-blue)
     ![](https://img.shields.io/badge/LLM-red)
 
+- **Parameter-Efficient Detoxification with Contrastive Decoding**  
+    *Tong Niu, Caiming Xiong, Yingbo Zhou, Semih Yavuz*.
+    [[pdf](https://aclanthology.org/2024.hucllm-1.3.pdf)]
+    ![](https://img.shields.io/badge/DETOXIGEN-blue)
+    ![](https://img.shields.io/badge/LLM-red)
+
 ##### Improve Reasoning
 
 - **Contrastive Decoding Improves Reasoning in Large Language Models**  
@@ -551,6 +564,12 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     *Wenqing Chen, Weicheng Wang, Zhixuan Chu, Kui Ren, Zibin Zheng, Zhichao Lu*.
     [[pdf](https://aclanthology.org/2024.findings-acl.842.pdf)], [[code](https://github.com/Linking-ai/SEED)]
     ![](https://img.shields.io/badge/ACL2024--Findings-brown)
+    ![](https://img.shields.io/badge/LLM-red)
+
+- **Self-Evaluation Guided Beam Search for Reasoning**  
+    *Yuxi Xie, Kenji Kawaguchi, Yiran Zhao, Xu Zhao, Min-Yen Kan, Junxian He, Qizhe Xie*.
+    [[pdf](https://arxiv.org/pdf/2305.00633)], [[code](https://guideddecoding.github.io/)]
+    ![](https://img.shields.io/badge/NeurIPS2023-brown)
     ![](https://img.shields.io/badge/LLM-red)
 
 #### Improve Generation Tasks
