@@ -1,4 +1,8 @@
-# Decoding Methods for Foundation Models: A Survey
+<div align="center">
+<img src="./assets/teaser.png" style="width: 40%;height: 40%">
+</div>
+
+# Awesome-L(V)LM-Decoding
 
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/000.0000)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
