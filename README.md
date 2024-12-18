@@ -456,6 +456,12 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     ![](https://img.shields.io/badge/NeurIPS2024-brown)
     ![](https://img.shields.io/badge/LLM-red)
 
+- **SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration**  
+    *Heming Xia, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li*.
+    [[pdf](https://arxiv.org/pdf/2410.06916)], [[code](https://github.com/hemingkx/SWIFT)]
+    ![](https://img.shields.io/badge/Swift-blue)
+    ![](https://img.shields.io/badge/LLM-red)
+
 ### Applications
 
 #### Improve Model Alignment
@@ -535,6 +541,17 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     ![](https://img.shields.io/badge/DETOXIGEN-blue)
     ![](https://img.shields.io/badge/LLM-red)
 
+- **Transfer Q Star: Principled Decoding for LLM Alignment**  
+    *Souradip Chakraborty, Soumya Suvra Ghosal, Ming Yin, Dinesh Manocha, Mengdi Wang, Amrit Singh Bedi, Furong Huang*.
+    [[pdf](https://arxiv.org/pdf/2405.20495)]
+    ![](https://img.shields.io/badge/LLM-red)
+
+- **Decoding Matters: Addressing Amplification Bias and Homogeneity Issue for LLM-based Recommendation**  
+    *Keqin Bao, Jizhi Zhang, Yang Zhang, Xinyue Huo, Chong Chen, Fuli Feng*.
+    [[pdf](https://aclanthology.org/2024.emnlp-main.589.pdf)], [[code](https://github.com/SAI990323/DecodingMatters)]
+    ![](https://img.shields.io/badge/EMNLP2024-brown)
+    ![](https://img.shields.io/badge/LLM-red)
+
 ##### Improve Reasoning
 
 - **Contrastive Decoding Improves Reasoning in Large Language Models**  
@@ -574,6 +591,19 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     *Yuxi Xie, Kenji Kawaguchi, Yiran Zhao, Xu Zhao, Min-Yen Kan, Junxian He, Qizhe Xie*.
     [[pdf](https://arxiv.org/pdf/2305.00633)], [[code](https://guideddecoding.github.io/)]
     ![](https://img.shields.io/badge/NeurIPS2023-brown)
+    ![](https://img.shields.io/badge/LLM-red)
+
+- **Learning to Decode Collaboratively with Multiple Language Models**  
+    *Zejiang Shen, Hunter Lang, Bailin Wang, Yoon Kim, David Sontag*.
+    [[pdf](https://aclanthology.org/2024.acl-long.701.pdf)], [[code](https://github.com/clinicalml/co-llm)]
+    ![](https://img.shields.io/badge/Co--LLM-blue)
+    ![](https://img.shields.io/badge/ACL2024-brown)
+    ![](https://img.shields.io/badge/LLM-red)
+
+- **The Era of Semantic Decoding**  
+    *Maxime Peyrard, Martin Josifoski, Robert West*.
+    [[pdf](https://arxiv.org/pdf/2403.14562)]
+    ![](https://img.shields.io/badge/Semantic--Decoding-blue)
     ![](https://img.shields.io/badge/LLM-red)
 
 #### Improve Generation Tasks
