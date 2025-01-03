@@ -4,14 +4,14 @@
 
 # Awesome-L(V)LM-Decoding
 
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/000.0000)
+[![Preprint](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](http://dx.doi.org/10.13140/RG.2.2.32726.36160)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![](https://img.shields.io/badge/PaperNumber-95-brightgreen)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](./LICENSE)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wang2226/DecodingPapers/main?logo=github&color=blue)
 
-> 🔍 See our paper: [**"Decoding Methods for Foundation Models: A Survey"**](https://arxiv.org/abs/0000.0000) [![Paper](https://img.shields.io/badge/Paper-%F0%9F%8E%93-lightblue?style=flat-square)](https://arxiv.org/abs/0000.0000)
+> 🔍 See our paper: [**"Make Every Token Count: A Systematic Survey on Decoding Methods for Foundation Models"**](http://dx.doi.org/10.13140/RG.2.2.32726.36160) [![Paper](https://img.shields.io/badge/Paper-%F0%9F%8E%93-lightblue?style=flat-square)](http://dx.doi.org/10.13140/RG.2.2.32726.36160)
 >
 > 📧 Please let us know if you find a mistake or have any suggestions by e-mail: <hwang219@hawk.iit.edu>
 
@@ -758,16 +758,3 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 ## **⏰ TODO in Coming Versions**
 
 - [ ] Release decoding playground on HuggingFace
-
-## Citation
-
-If you find the resources in this repository useful, please cite our paper:
-
-```
-@inproceedings{wang2024decoding,
-  title={Decoding Methods for Foundation Models: A Survey},
-  author={Haoran Wang and Kai Shu.},
-  booktitle={arXiv},
-  year={2024}
-}
-```
