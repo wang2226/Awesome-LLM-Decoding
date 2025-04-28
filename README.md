@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](./LICENSE)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wang2226/DecodingPapers/main?logo=github&color=blue)
 
-> 🔍 See our paper: [**"Make Every Token Count: A Systematic Survey on Decoding Methods for Foundation Models"**](http://dx.doi.org/10.13140/RG.2.2.32726.36160) [![Paper](https://img.shields.io/badge/Paper-%F0%9F%8E%93-lightblue?style=flat-square)](http://dx.doi.org/10.13140/RG.2.2.32726.36160)
+> 🔍 See our paper: [**"Beyond Tokens: A Survey on Decoding Methods for Large Language Models and Large Vision-Language Models"**](http://dx.doi.org/10.13140/RG.2.2.32726.36160) [![Paper](https://img.shields.io/badge/Paper-%F0%9F%8E%93-lightblue?style=flat-square)](http://dx.doi.org/10.13140/RG.2.2.32726.36160)
 >
 > 📧 Please let us know if you find a mistake or have any suggestions by e-mail: <hwang219@hawk.iit.edu>
 
@@ -338,6 +338,18 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     ![](https://img.shields.io/badge/ICML2024-brown)
     ![](https://img.shields.io/badge/LLM-red)
 
+- **Odysseus Navigates the Sirens' Song: Dynamic Focus Decoding for Factual and Diverse Open-Ended Text Generation**  
+    *Wen Luo, Feifan Song, Wei Li, Guangyue Peng, Shaohang Wei, Houfeng Wang*.
+    [[pdf](https://arxiv.org/pdf/2503.08057)]
+    ![](https://img.shields.io/badge/DFD-blue)
+    ![](https://img.shields.io/badge/LLM-red)
+
+- **Attention Reallocation: Towards Zero-cost and Controllable Hallucination Mitigation of MLLMs**  
+    *Chongjun Tu, Peng Ye, Dongzhan Zhou, Lei Bai, Gang Yu, Tao Chen, Wanli Ouyang*.
+    [[pdf](https://arxiv.org/pdf/2503.08342)]
+    ![](https://img.shields.io/badge/AttnReal-blue)
+    ![](https://img.shields.io/badge/LVLM-red)
+
 #### Parallel
 
 - **Blockwise Parallel Decoding for Deep Autoregressive Models**  
@@ -462,6 +474,12 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     ![](https://img.shields.io/badge/Swift-blue)
     ![](https://img.shields.io/badge/LLM-red)
 
+- **Seesaw: High-throughput LLM Inference via Model Re-sharding**  
+    *Qidong Su, Wei Zhao, Xin Li, Muralidhar Andoorveedu, Chenhao Jiang, Zhanda Zhu, Kevin Song, Christina Giannoula, Gennady Pekhimenko*.
+    [[pdf](https://arxiv.org/pdf/2503.06433)]
+    ![](https://img.shields.io/badge/Seesaw-blue)
+    ![](https://img.shields.io/badge/LLM-red)
+
 ### Applications
 
 #### Improve Model Alignment
@@ -499,8 +517,21 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 - **CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs**  
     *Zhehan Kan, Ce Zhang, Zihan Liao, Yapeng Tian, Wenming Yang, Junyuan Xiao, Xu Li, Dongmei Jiang, Yaowei Wang, Qingmin Liao*.
-    [[pdf](https://arxiv.org/pdf/2411.12713)]
+    [[pdf](https://arxiv.org/pdf/2410.01556)]
+    ![](https://img.shields.io/badge/ID-blue)
+    ![](https://img.shields.io/badge/ICLR2025-brown)
+    ![](https://img.shields.io/badge/LLM-red)
+
+- **Integrative Decoding: Improve Factuality via Implicit Self-consistency**  
+    *Yi Cheng, Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, Wenjun Hou, Kaishuai Xu, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong*.
+    [[pdf](https://arxiv.org/pdf/2411.12713)], [[code](https://github.com/YiCheng98/IntegrativeDecoding)]
     ![](https://img.shields.io/badge/CATCH-blue)
+    ![](https://img.shields.io/badge/LVLM-red)
+
+- **Attention Hijackers: Detect and Disentangle Attention Hijacking in LVLMs for Hallucination Mitigation**  
+    *Beitao Chen, Xinyu Lyu, Lianli Gao, Jingkuan Song, Heng Tao Shen*.
+    [[pdf](https://arxiv.org/pdf/2503.08216)]
+    ![](https://img.shields.io/badge/AID-blue)
     ![](https://img.shields.io/badge/LVLM-red)
 
 ##### Improve Safety
@@ -703,6 +734,12 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     *Xukun Liu, Bowen Lei, Ruqi Zhang, Dongkuan Xu*.
     [[pdf](https://arxiv.org/pdf/2407.12021)]
     ![](https://img.shields.io/badge/ADED-blue)
+    ![](https://img.shields.io/badge/LLM-red)
+
+- **Position-Aware Depth Decay Decoding (D3): Boosting Large Language Model Inference Efficiency**  
+    *Siqi Fan, Xuezhi Fang, Xingrun Xing, Peng Han, Shuo Shang, Yequan Wang*.
+    [[pdf](https://arxiv.org/pdf/2503.08524)]
+    ![](https://img.shields.io/badge/D3-blue)
     ![](https://img.shields.io/badge/LLM-red)
 
 ##### Image Generation
