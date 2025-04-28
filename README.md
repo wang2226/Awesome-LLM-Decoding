@@ -524,7 +524,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 - **Integrative Decoding: Improve Factuality via Implicit Self-consistency**  
     *Yi Cheng, Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, Wenjun Hou, Kaishuai Xu, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong*.
-    [[pdf](https://arxiv.org/pdf/2411.12713)], [[code](https://github.com/YiCheng98/IntegrativeDecoding)]
+    [[pdf](https://arxiv.org/pdf/2410.01556)], [[code](https://github.com/YiCheng98/IntegrativeDecoding)]
     ![](https://img.shields.io/badge/CATCH-blue)
     ![](https://img.shields.io/badge/LVLM-red)
 
