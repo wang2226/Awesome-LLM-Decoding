@@ -798,10 +798,11 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 ## Citation
 ```bibtex
-@article{wangbeyond,
+@article{wang2025beyond,
   title={Beyond Tokens: A Survey on Decoding Methods for Large Language Models and Large Vision-Language Models},
   author={Wang, Haoran and Xu, Xiongxiao and Philip, S Yu and Shu, Kai},
   journal={Authorea Preprints},
+  year={2025},
   publisher={Authorea}
 }
 ```
