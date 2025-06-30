@@ -795,3 +795,13 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 ## **⏰ TODO in Coming Versions**
 
 - [ ] Release decoding playground on HuggingFace
+
+## Citation
+```bibtex
+@article{wangbeyond,
+  title={Beyond Tokens: A Survey on Decoding Methods for Large Language Models and Large Vision-Language Models},
+  author={Wang, Haoran and Xu, Xiongxiao and Philip, S Yu and Shu, Kai},
+  journal={Authorea Preprints},
+  publisher={Authorea}
+}
+```
