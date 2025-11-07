@@ -350,6 +350,12 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     ![](https://img.shields.io/badge/AttnReal-blue)
     ![](https://img.shields.io/badge/LVLM-red)
 
+- **Learning to Align: Addressing Character Frequency Distribution Shifts in Handwritten Text Recognition**  
+    *Panagiotis Kaliosis, John Pavlopoulos*.
+    [[pdf](https://aclanthology.org/2025.findings-emnlp.1014.pdf)]
+    ![](https://img.shields.io/badge/FADA-blue)
+    ![](https://img.shields.io/badge/LLM-red)
+
 #### Parallel
 
 - **Blockwise Parallel Decoding for Deep Autoregressive Models**  
