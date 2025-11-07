@@ -354,6 +354,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     *Panagiotis Kaliosis, John Pavlopoulos*.
     [[pdf](https://aclanthology.org/2025.findings-emnlp.1014.pdf)]
     ![](https://img.shields.io/badge/FADA-blue)
+    ![](https://img.shields.io/badge/EMNLP2025-brown)
     ![](https://img.shields.io/badge/LLM-red)
 
 #### Parallel
