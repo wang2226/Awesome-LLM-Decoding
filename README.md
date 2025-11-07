@@ -357,6 +357,12 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     ![](https://img.shields.io/badge/EMNLP2025-brown)
     ![](https://img.shields.io/badge/LLM-red)
 
+- **PrefixNLI: Detecting Factual Inconsistencies as Soon as They Arise**  
+    *Sapir Harary, Eran Hirsch, Aviv Slobodkin, David Wan, Mohit Bansal, Ido Dagan*.
+    [[pdf](https://arxiv.org/abs/2511.01359)]
+    ![](https://img.shields.io/badge/PrefixNLI-blue)
+    ![](https://img.shields.io/badge/LLM-red)
+
 #### Parallel
 
 - **Blockwise Parallel Decoding for Deep Autoregressive Models**  
