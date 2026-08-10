@@ -493,6 +493,13 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     ![](https://img.shields.io/badge/Seesaw-blue)
     ![](https://img.shields.io/badge/LLM-red)
 
+- **DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification**
+    *Ziyi Wang, Siva Rajesh Kasa, Ankith M S, Santhosh Kumar Kasa, Jiaru Zou, Sumit Negi, Ruqi Zhang, Nan Jiang, Qifan Song*.
+    [[pdf](https://arxiv.org/abs/2604.07622)], [[code](https://github.com/comeusr/diversed)]
+    ![](https://img.shields.io/badge/DIVERSED-blue)
+    ![](https://img.shields.io/badge/AISTATS2026-brown)
+    ![](https://img.shields.io/badge/LLM-red)
+
 ### Applications
 
 #### Improve Model Alignment
