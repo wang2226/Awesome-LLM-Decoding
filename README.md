@@ -4,16 +4,18 @@
 
 # Awesome-L(V)LM-Decoding
 
+[![ACM](https://img.shields.io/badge/ACM-Paper-0085CA?logo=acm&logoColor=white)](https://dl.acm.org/doi/10.1145/3820356.3820357)
 [![Preprint](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](http://dx.doi.org/10.13140/RG.2.2.32726.36160)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![](https://img.shields.io/badge/PaperNumber-95-brightgreen)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](./LICENSE)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wang2226/DecodingPapers/main?logo=github&color=blue)
 
-> 🔍 See our paper: [**"Beyond Tokens: A Survey on Decoding Methods for Large Language Models and Large Vision-Language Models"**](http://dx.doi.org/10.13140/RG.2.2.32726.36160) [![Paper](https://img.shields.io/badge/Paper-%F0%9F%8E%93-lightblue?style=flat-square)](http://dx.doi.org/10.13140/RG.2.2.32726.36160)
+> 🎉 Our survey has been published in **ACM SIGKDD Explorations Newsletter, Volume 28, Issue 1**!
 >
-> 📧 Please let us know if you find a mistake or have any suggestions by e-mail: <hwang219@hawk.iit.edu>
+> 👉 Survey: **Beyond Tokens: A Survey on Decoding Methods for Large Language Models and Large Vision-Language Models** [Link](https://dl.acm.org/doi/10.1145/3820356.3820357)
+>  
+> 📧 Please let us know if you find a mistake or have any suggestions by e-mail: <haoran.wang@emory.edu>
 
 ## 👂**TL;DR**
 
@@ -604,6 +606,12 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     ![](https://img.shields.io/badge/EMNLP2024-brown)
     ![](https://img.shields.io/badge/LLM-red)
 
+- **Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation**  
+    *Haoran Wang, Xiongxiao Xu, Baixiang Huang, Kai Shu*.
+    [[pdf](https://dl.acm.org/doi/epdf/10.1145/3770855.3817665)], [[code](https://github.com/wang2226/PAD)]
+    ![](https://img.shields.io/badge/KDD2026-brown)
+    ![](https://img.shields.io/badge/LLM-red)
+
 ##### Improve Reasoning
 
 - **Contrastive Decoding Improves Reasoning in Large Language Models**  
@@ -819,11 +827,22 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 ## Citation
 ```bibtex
-@article{wang2025beyond,
-  title={Beyond Tokens: A Survey on Decoding Methods for Large Language Models and Large Vision-Language Models},
-  author={Wang, Haoran and Xu, Xiongxiao and Philip, S Yu and Shu, Kai},
-  journal={Authorea Preprints},
-  year={2025},
-  publisher={Authorea}
+@article{10.1145/3820356.3820357,
+author = {Wang, Haoran and Xu, Xiongxiao and Yu, Philip S. and Shu, Kai},
+title = {Beyond Tokens: A Survey on Decoding Methods for Large Language and Vision-Language Models},
+year = {2026},
+issue_date = {June 2026},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {28},
+number = {1},
+issn = {1931-0145},
+url = {https://doi.org/10.1145/3820356.3820357},
+doi = {10.1145/3820356.3820357},
+abstract = {Large language models (LLMs) and large vision-language models (LVLMs) have demonstrated impressive generative capabilities, yet ensuring their outputs align with user intent is still challenging. While most existing approaches address this issue at the training stage, inference-time approaches like decoding methods offer a more efficient and scalable solution. Decoding methods control model generation by guiding token-level selection, performing sequencelevel generation, or generating tokens in parallel to accelerate the process. In this survey, we identify three emerging paradigms from recent works on decoding methods for LLMs and LVLMs, provide a systematic review of these methods, highlight ongoing challenges, and discuss potential future research directions. Our goal is to underscore the efficiency and effectiveness of decoding methods and offer a practical view of their applications. Paper lists and more resources on decoding methods for LLMs and LVLMs can be found at https://github.com/wang2226/Awesome-LLM-Decoding.},
+journal = {SIGKDD Explor. Newsl.},
+month = jun,
+pages = {1–20},
+numpages = {20}
 }
 ```
