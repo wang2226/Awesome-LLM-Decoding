@@ -56,6 +56,7 @@ In this paper, we survey and categorize research on decoding methods for foundat
 - [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)]() [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
 - [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)]() [Generating Human-level Text with Contrastive Search in Transformers](https://huggingface.co/blog/introducing-csearch)
 - [Decoding Strategies in Large Language Models](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html)
+- [Width vs. depth: speculating on the margin](https://blog.doubleword.ai/speculating-on-the-margin)
 - [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]()  [CMU Neural Nets for NLP 2021 (18): Advanced Search Algorithms](https://www.youtube.com/watch?v=Gl6CPW6l6dA&ab_channel=GrahamNeubig)
 - [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]()  [CMU Advanced NLP Fall 2024 (22): From Decoding to Meta Generation Inference Time Algorithms for LMs](https://www.youtube.com/watch?v=0s1gZe_BcQ0&ab_channel=GrahamNeubig)
 - [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]()  [UMass CS685 S24 (Advanced NLP) #13: Decoding from language models](https://www.youtube.com/watch?v=WoJrlvu7ODI&t=3872s&ab_channel=MohitIyyer)
