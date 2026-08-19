@@ -5,6 +5,7 @@
 # Awesome-L(V)LM-Decoding
 
 [![ACM](https://img.shields.io/badge/ACM-Paper-0085CA?logo=acm&logoColor=white)](https://dl.acm.org/doi/10.1145/3820356.3820357)
+[![arXiv](https://img.shields.io/badge/arXiv-2608.14797-b31b1b.svg)](https://arxiv.org/pdf/2608.14797)
 [![Preprint](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](http://dx.doi.org/10.13140/RG.2.2.32726.36160)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
