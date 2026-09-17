@@ -215,6 +215,13 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     ![](https://img.shields.io/badge/ACL2024--Findings-brown)
     ![](https://img.shields.io/badge/LVLM-red)
 
+- **Steering Multimodal Large Language Models Decoding for Context-Aware Safety**  
+    *Zheyuan Liu, Zhangchen Xu, Guangyao Dou, Xiangchi Yuan, Zhaoxuan Tan, Radha Poovendran, Meng Jiang*.
+    [[pdf](https://arxiv.org/pdf/2509.19212)]
+    ![](https://img.shields.io/badge/SafeCoDe-blue)
+    ![](https://img.shields.io/badge/EMNLP2026-brown)
+    ![](https://img.shields.io/badge/LVLM-red)
+
 #### Guided
 
 - **NeuroLogic Decoding: (Un)supervised Neural Text Generation with Predicate Logic Constraints**  
