@@ -107,7 +107,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 - **DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts**  
     *Alisa Liu, Maarten Sap, Ximing Lu, Swabha Swayamdipta, Chandra Bhagavatula, Noah A. Smith, Yejin Choi*.
-    [[pdf](https://aclanthology.org/2023.findings-emnlp.257.pdf)], [[code](https://github.com/alisawuffles/DExperts)]
+    [[pdf](https://aclanthology.org/2021.acl-long.522.pdf)], [[code](https://github.com/alisawuffles/DExperts)]
     ![](https://img.shields.io/badge/DExperts-blue)
     ![](https://img.shields.io/badge/ACL2021-brown)
     ![](https://img.shields.io/badge/PLM-red)
@@ -123,7 +123,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     *Weijia Shi, Xiaochuang Han, Mike Lewis, Yulia Tsvetkov, Luke Zettlemoyer, Wen-tau Yih*.
     [[pdf](https://aclanthology.org/2024.naacl-short.69.pdf)], [[code](https://github.com/xhan77/context-aware-decoding)]
     ![](https://img.shields.io/badge/CAD-blue)
-    ![](https://img.shields.io/badge/NACL2024-brown)
+    ![](https://img.shields.io/badge/NAACL2024-brown)
     ![](https://img.shields.io/badge/LLM-red)
 
 - **Speculative Contrastive Decoding**  
@@ -393,7 +393,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 - **Accelerating Transformer Inference for Translation via Parallel Decoding**  
     *Andrea Santilli, Silvio Severino, Emilian Postolache, Valentino Maiorca, Michele Mancusi, Riccardo Marin, Emanuele Rodolà*.
     [[pdf](https://aclanthology.org/2023.acl-long.689.pdf)], [[code](https://github.com/teelinsan/parallel-decoding)]
-    ![](https://img.shields.io/badge/EMNLP2023--Findings-brown)
+    ![](https://img.shields.io/badge/ACL2023-brown)
     ![](https://img.shields.io/badge/PLM-red)
 
 - **Draft& Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding**  
@@ -548,16 +548,16 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 - **CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs**  
     *Zhehan Kan, Ce Zhang, Zihan Liao, Yapeng Tian, Wenming Yang, Junyuan Xiao, Xu Li, Dongmei Jiang, Yaowei Wang, Qingmin Liao*.
-    [[pdf](https://arxiv.org/pdf/2410.01556)]
-    ![](https://img.shields.io/badge/ID-blue)
-    ![](https://img.shields.io/badge/ICLR2025-brown)
-    ![](https://img.shields.io/badge/LLM-red)
+    [[pdf](https://arxiv.org/pdf/2411.12713)]
+    ![](https://img.shields.io/badge/CATCH-blue)
+    ![](https://img.shields.io/badge/LVLM-red)
 
 - **Integrative Decoding: Improve Factuality via Implicit Self-consistency**  
     *Yi Cheng, Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, Wenjun Hou, Kaishuai Xu, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong*.
     [[pdf](https://arxiv.org/pdf/2410.01556)], [[code](https://github.com/YiCheng98/IntegrativeDecoding)]
-    ![](https://img.shields.io/badge/CATCH-blue)
-    ![](https://img.shields.io/badge/LVLM-red)
+    ![](https://img.shields.io/badge/ID-blue)
+    ![](https://img.shields.io/badge/ICLR2025-brown)
+    ![](https://img.shields.io/badge/LLM-red)
 
 - **Attention Hijackers: Detect and Disentangle Attention Hijacking in LVLMs for Hallucination Mitigation**  
     *Beitao Chen, Xinyu Lyu, Lianli Gao, Jingkuan Song, Heng Tao Shen*.
