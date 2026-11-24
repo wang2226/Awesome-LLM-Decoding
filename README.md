@@ -222,6 +222,12 @@ Model: ![](https://img.shields.io/badge/LLM-red)
     ![](https://img.shields.io/badge/EMNLP2026-brown)
     ![](https://img.shields.io/badge/LVLM-red)
 
+- **DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning**  
+    *Minghao Luo, Liang Chen*.
+    [[pdf](https://arxiv.org/pdf/2610.18862)], [[code](https://github.com/leoluolol/DoubtLess)]
+    ![](https://img.shields.io/badge/DoubtLess-blue)
+    ![](https://img.shields.io/badge/LLM-red)
+
 #### Guided
 
 - **NeuroLogic Decoding: (Un)supervised Neural Text Generation with Predicate Logic Constraints**  
